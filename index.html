@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Navily - Premium Bookmark Manager</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              mono: ['JetBrains Mono', 'monospace'],
+            },
+            colors: {
+              navily: {
+                bg: '#050505',      // Deepest black
+                surface: '#0f0f0f', // Very dark grey for cards
+                metal: '#2B2B2B',   // Metallic grey for borders/inputs
+                silver: '#E5E5E5',  // Text high contrast
+                muted: '#888888',   // Secondary text
+                accent: '#FFFFFF',  // Pure white accents
+                glass: 'rgba(20, 20, 20, 0.6)',
+              }
+            },
+            backgroundImage: {
+              'metal-gradient': 'linear-gradient(145deg, #1a1a1a, #0a0a0a)',
+              'silver-sheen': 'linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.1) 50%, transparent 60%)',
+            },
+            animation: {
+              'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+              'float': 'float 6s ease-in-out infinite',
+              'fade-in': 'fadeIn 0.6s ease-out forwards',
+              'shimmer': 'shimmer 2s linear infinite',
+              'slide-up': 'slideUp 0.3s ease-out forwards',
+            },
+            keyframes: {
+              float: {
+                '0%, 100%': { transform: 'translateY(0)' },
+                '50%': { transform: 'translateY(-10px)' },
+              },
+              fadeIn: {
+                '0%': { opacity: '0', transform: 'translateY(10px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' },
+              },
+              shimmer: {
+                '0%': { transform: 'translateX(-100%)' },
+                '100%': { transform: 'translateX(100%)' }
+              },
+              slideUp: {
+                '0%': { opacity: '0', transform: 'translateY(20px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' }
+              }
+            }
+          },
+        },
+      }
+    </script>
+    <style>
+      body {
+        background-color: #050505;
+        color: #E5E5E5;
+      }
+      /* Custom Scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #050505; 
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #333333; 
+        border-radius: 4px;
+        border: 2px solid #050505;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #555555; 
+      }
+      .glass-panel {
+        background: rgba(20, 20, 20, 0.7);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.30.0",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.554.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>

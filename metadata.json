@@ -1,0 +1,7 @@
+{
+  "name": "Navily",
+  "description": "A premium, AI-powered personal navigation hub. Curate your digital footprint with elegance and precision.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
