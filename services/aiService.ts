@@ -28,7 +28,7 @@ export const MODELS: ModelConfig[] = [
 ];
 
 export const API_BASE_URL = 'https://api.chatanywhere.tech';
-export const DEFAULT_API_KEY = 'sk-DMVVheSxs56jFFWG9Tu8hEt7iK48rnj5Xs34mFJEKhUA24zJ';
+export const DEFAULT_API_KEY = '';
 
 // Usage tracking
 const USAGE_KEY_PREFIX = 'ai_usage_';
@@ -109,7 +109,7 @@ export const getApiKey = (): string => {
     return savedKey;
   }
   
-  // Fallback to default key
+  // No hardcoded fallback; users configure the key locally
   return DEFAULT_API_KEY;
 };
 

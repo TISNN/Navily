@@ -139,7 +139,7 @@ export const AIChat: React.FC = () => {
 
   // Navily Logo Component (smaller version with unique IDs to avoid conflicts)
   const NavilyLogoSmall = () => (
-    <svg width="" height="16" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" className="drop-shadow-sm">
+    <svg width="16" height="16" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" className="drop-shadow-sm">
       <defs>
         <filter id="shadow-chat" x="-20%" y="-20%" width="140%" height="140%">
           <feDropShadow dx="0" dy="2" stdDeviation="2" floodColor="#000000" floodOpacity="0.35"/>

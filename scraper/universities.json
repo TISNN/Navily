@@ -1,0 +1,1822 @@
+[
+  {
+    "chinese_name": "Falmouth艺术学院（法姆兹美术学院、费尔茅斯艺术学院）",
+    "english_name": "Falmouth College of Arts University College Falmouth",
+    "logo_url": "https://logo.compassedu.hk/2997.png"
+  },
+  {
+    "chinese_name": "世纪大学",
+    "english_name": "SEGi University",
+    "logo_url": "https://logo.compassedu.hk/3046.png"
+  },
+  {
+    "chinese_name": "东北大学（美国）",
+    "english_name": "Northeastern University(United States)",
+    "logo_url": "https://logo.compassedu.hk/170.png"
+  },
+  {
+    "chinese_name": "东安格利亚大学",
+    "english_name": "University of East Anglia",
+    "logo_url": "https://logo.compassedu.hk/35.png"
+  },
+  {
+    "chinese_name": "中佛罗里达大学",
+    "english_name": "University of Central Florida",
+    "logo_url": "https://logo.compassedu.hk/259.png"
+  },
+  {
+    "chinese_name": "丹佛大学",
+    "english_name": "University of Denver",
+    "logo_url": "https://logo.compassedu.hk/194.png"
+  },
+  {
+    "chinese_name": "乌得勒支大学",
+    "english_name": "Utrecht University",
+    "logo_url": "https://logo.compassedu.hk/382.png"
+  },
+  {
+    "chinese_name": "乔治华盛顿大学",
+    "english_name": "George Washington University",
+    "logo_url": "https://logo.compassedu.hk/158.png"
+  },
+  {
+    "chinese_name": "乔治城大学",
+    "english_name": "Georgetown University",
+    "logo_url": "https://logo.compassedu.hk/101.png"
+  },
+  {
+    "chinese_name": "乔治梅森大学",
+    "english_name": "George Mason University",
+    "logo_url": "https://logo.compassedu.hk/117.png"
+  },
+  {
+    "chinese_name": "亚利桑那大学",
+    "english_name": "University of Arizona",
+    "logo_url": "https://logo.compassedu.hk/233.png"
+  },
+  {
+    "chinese_name": "亚利桑那州立大学",
+    "english_name": "Arizona State University—Tempe",
+    "logo_url": "https://logo.compassedu.hk/111.png"
+  },
+  {
+    "chinese_name": "亚太科技大学",
+    "english_name": "Asia Pacific University of Technology and Innovation (APU) Malaysia",
+    "logo_url": "https://logo.compassedu.hk/3020.png"
+  },
+  {
+    "chinese_name": "亚琛工业大学",
+    "english_name": "RWTH Aachen University",
+    "logo_url": "https://logo.compassedu.hk/391.png"
+  },
+  {
+    "chinese_name": "代尔夫特理工大学",
+    "english_name": "Delft University of Technology",
+    "logo_url": "https://logo.compassedu.hk/381.png"
+  },
+  {
+    "chinese_name": "伊利诺伊大学芝加哥分校",
+    "english_name": "University of Illinois—Chicago",
+    "logo_url": "https://logo.compassedu.hk/240.png"
+  },
+  {
+    "chinese_name": "伊利诺伊大学香槟分校",
+    "english_name": "University of Illinois at Urbana-Champaign",
+    "logo_url": "https://logo.compassedu.hk/155.png"
+  },
+  {
+    "chinese_name": "伊利诺伊理工学院",
+    "english_name": "Illinois Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/219.png"
+  },
+  {
+    "chinese_name": "伊隆大学",
+    "english_name": "Elon University",
+    "logo_url": "https://logo.compassedu.hk/407.png"
+  },
+  {
+    "chinese_name": "伍伦贡大学",
+    "english_name": "University of Wollongong Australia",
+    "logo_url": "https://logo.compassedu.hk/412.png"
+  },
+  {
+    "chinese_name": "伍斯特理工学院",
+    "english_name": "Worcester Polytechnic Institute",
+    "logo_url": "https://logo.compassedu.hk/175.png"
+  },
+  {
+    "chinese_name": "休斯敦大学",
+    "english_name": "University of Houston",
+    "logo_url": "https://logo.compassedu.hk/298.png"
+  },
+  {
+    "chinese_name": "伦敦商学院",
+    "english_name": "London Business School",
+    "logo_url": "https://logo.compassedu.hk/349.png"
+  },
+  {
+    "chinese_name": "伦敦大学亚非学院",
+    "english_name": "SOAS, University of London",
+    "logo_url": "https://logo.compassedu.hk/32.png"
+  },
+  {
+    "chinese_name": "伦敦大学国王学院",
+    "english_name": "King's College London",
+    "logo_url": "https://logo.compassedu.hk/13.png"
+  },
+  {
+    "chinese_name": "伦敦大学城市学院",
+    "english_name": "City, University of London",
+    "logo_url": "https://logo.compassedu.hk/396.png"
+  },
+  {
+    "chinese_name": "伦敦大学学院",
+    "english_name": "University College London",
+    "logo_url": "https://logo.compassedu.hk/11.png"
+  },
+  {
+    "chinese_name": "伦敦大学玛丽皇后学院",
+    "english_name": "Queen Mary University of London",
+    "logo_url": "https://logo.compassedu.hk/54.png"
+  },
+  {
+    "chinese_name": "伦敦大学皇家霍洛威学院",
+    "english_name": "Royal Holloway, University of London",
+    "logo_url": "https://logo.compassedu.hk/36.png"
+  },
+  {
+    "chinese_name": "伦敦大学金史密斯学院",
+    "english_name": "Goldsmiths, University of London",
+    "logo_url": "https://logo.compassedu.hk/398.png"
+  },
+  {
+    "chinese_name": "伦敦政治经济学院",
+    "english_name": "The London School of Economics and Political Science",
+    "logo_url": "https://logo.compassedu.hk/1.png"
+  },
+  {
+    "chinese_name": "伦斯勒理工学院",
+    "english_name": "Rensselaer Polytechnic Institute",
+    "logo_url": "https://logo.compassedu.hk/159.png"
+  },
+  {
+    "chinese_name": "伯尔尼大学",
+    "english_name": "University of Bern",
+    "logo_url": "https://logo.compassedu.hk/377.png"
+  },
+  {
+    "chinese_name": "伯明翰大学",
+    "english_name": "University of Birmingham",
+    "logo_url": "https://logo.compassedu.hk/34.png"
+  },
+  {
+    "chinese_name": "佐治亚大学",
+    "english_name": "University of Georgia",
+    "logo_url": "https://logo.compassedu.hk/174.png"
+  },
+  {
+    "chinese_name": "佐治亚州立大学",
+    "english_name": "Georgia State University",
+    "logo_url": "https://logo.compassedu.hk/331.png"
+  },
+  {
+    "chinese_name": "佐治亚理工学院",
+    "english_name": "Georgia Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/144.png"
+  },
+  {
+    "chinese_name": "佛罗里达国际大学",
+    "english_name": "Florida International University",
+    "logo_url": "https://logo.compassedu.hk/325.png"
+  },
+  {
+    "chinese_name": "佛罗里达大学",
+    "english_name": "University of Florida",
+    "logo_url": "https://logo.compassedu.hk/168.png"
+  },
+  {
+    "chinese_name": "佛罗里达州立大学",
+    "english_name": "Florida State University",
+    "logo_url": "https://logo.compassedu.hk/209.png"
+  },
+  {
+    "chinese_name": "佛罗里达理工学院",
+    "english_name": "Florida Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/245.png"
+  },
+  {
+    "chinese_name": "佩珀代因大学",
+    "english_name": "Pepperdine University",
+    "logo_url": "https://logo.compassedu.hk/164.png"
+  },
+  {
+    "chinese_name": "俄亥俄州立大学",
+    "english_name": "Ohio State University",
+    "logo_url": "https://logo.compassedu.hk/163.png"
+  },
+  {
+    "chinese_name": "俄克拉荷马大学",
+    "english_name": "University of Oklahoma",
+    "logo_url": "https://logo.compassedu.hk/215.png"
+  },
+  {
+    "chinese_name": "俄克拉荷马州立大学",
+    "english_name": "Oklahoma State University",
+    "logo_url": "https://logo.compassedu.hk/113.png"
+  },
+  {
+    "chinese_name": "俄勒冈大学",
+    "english_name": "University of Oregon",
+    "logo_url": "https://logo.compassedu.hk/216.png"
+  },
+  {
+    "chinese_name": "俄勒冈州立大学",
+    "english_name": "Oregon State University",
+    "logo_url": "https://logo.compassedu.hk/119.png"
+  },
+  {
+    "chinese_name": "克兰菲尔德大学",
+    "english_name": "Cranfield University",
+    "logo_url": "https://logo.compassedu.hk/401.png"
+  },
+  {
+    "chinese_name": "克利夫兰州立大学",
+    "english_name": "Cleveland State University",
+    "logo_url": "https://logo.compassedu.hk/338.png"
+  },
+  {
+    "chinese_name": "克拉克大学",
+    "english_name": "Clark University",
+    "logo_url": "https://logo.compassedu.hk/202.png"
+  },
+  {
+    "chinese_name": "克拉克森大学",
+    "english_name": "Clarkson University",
+    "logo_url": "https://logo.compassedu.hk/228.png"
+  },
+  {
+    "chinese_name": "克莱姆森大学",
+    "english_name": "Clemson University",
+    "logo_url": "https://logo.compassedu.hk/176.png"
+  },
+  {
+    "chinese_name": "克莱蒙特·麦肯纳学院",
+    "english_name": "Claremont Mckenna College",
+    "logo_url": "https://logo.compassedu.hk/306.png"
+  },
+  {
+    "chinese_name": "克莱蒙特研究大学",
+    "english_name": "Claremont Graduate University",
+    "logo_url": "https://logo.compassedu.hk/304.png"
+  },
+  {
+    "chinese_name": "兰卡斯特大学",
+    "english_name": "Lancaster University",
+    "logo_url": "https://logo.compassedu.hk/4.png"
+  },
+  {
+    "chinese_name": "内布拉斯加大学奥马哈分校",
+    "english_name": "University of Nebraska, Omaha",
+    "logo_url": "https://logo.compassedu.hk/333.png"
+  },
+  {
+    "chinese_name": "内布拉斯加大学林肯校区",
+    "english_name": "University of Nebraska—Lincoln",
+    "logo_url": "https://logo.compassedu.hk/213.png"
+  },
+  {
+    "chinese_name": "凯斯西储大学",
+    "english_name": "Case Western Reserve University",
+    "logo_url": "https://logo.compassedu.hk/146.png"
+  },
+  {
+    "chinese_name": "凯致商学院",
+    "english_name": "KEDGE Business School",
+    "logo_url": "https://logo.compassedu.hk/356.png"
+  },
+  {
+    "chinese_name": "列日大学",
+    "english_name": "University of Liege",
+    "logo_url": "https://logo.compassedu.hk/373.png"
+  },
+  {
+    "chinese_name": "利兹大学",
+    "english_name": "University of Leeds",
+    "logo_url": "https://logo.compassedu.hk/38.png"
+  },
+  {
+    "chinese_name": "利物浦大学",
+    "english_name": "University of Liverpool",
+    "logo_url": "https://logo.compassedu.hk/48.png"
+  },
+  {
+    "chinese_name": "剑桥大学",
+    "english_name": "University of Cambridge",
+    "logo_url": "https://logo.compassedu.hk/9.png"
+  },
+  {
+    "chinese_name": "加利福尼亚大学洛杉矶分校",
+    "english_name": "California State University, Los Angeles",
+    "logo_url": "https://logo.compassedu.hk/3002.png"
+  },
+  {
+    "chinese_name": "加州大学伯克利分校",
+    "english_name": "University of California, Berkeley",
+    "logo_url": "https://logo.compassedu.hk/100.png"
+  },
+  {
+    "chinese_name": "加州大学圣克鲁兹分校",
+    "english_name": "University of California-Santa Cruz",
+    "logo_url": "https://logo.compassedu.hk/187.png"
+  },
+  {
+    "chinese_name": "加州大学圣地亚哥分校",
+    "english_name": "University of California, San Diego",
+    "logo_url": "https://logo.compassedu.hk/145.png"
+  },
+  {
+    "chinese_name": "加州大学圣塔芭芭拉分校",
+    "english_name": "University of California, Santa Barbara",
+    "logo_url": "https://logo.compassedu.hk/150.png"
+  },
+  {
+    "chinese_name": "加州大学戴维斯分校",
+    "english_name": "University of California, Davis",
+    "logo_url": "https://logo.compassedu.hk/148.png"
+  },
+  {
+    "chinese_name": "加州大学欧文分校",
+    "english_name": "University of California, Irvine",
+    "logo_url": "https://logo.compassedu.hk/154.png"
+  },
+  {
+    "chinese_name": "加州大学河滨分校",
+    "english_name": "University of California—Riverside",
+    "logo_url": "https://logo.compassedu.hk/207.png"
+  },
+  {
+    "chinese_name": "加州大学洛杉矶分校",
+    "english_name": "University of California, Los Angeles",
+    "logo_url": "https://logo.compassedu.hk/104.png"
+  },
+  {
+    "chinese_name": "加州大学默塞德分校",
+    "english_name": "University of California, Merced",
+    "logo_url": "https://logo.compassedu.hk/408.png"
+  },
+  {
+    "chinese_name": "加州州立理工大学",
+    "english_name": "California Polytechnic State University",
+    "logo_url": "https://logo.compassedu.hk/307.png"
+  },
+  {
+    "chinese_name": "加州理工学院",
+    "english_name": "California Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/84.png"
+  },
+  {
+    "chinese_name": "北伊利诺伊大学",
+    "english_name": "Northern Illinois University",
+    "logo_url": "https://logo.compassedu.hk/278.png"
+  },
+  {
+    "chinese_name": "北卡罗来纳大学夏洛特分校",
+    "english_name": "University of North Carolina—Charlotte",
+    "logo_url": "https://logo.compassedu.hk/281.png"
+  },
+  {
+    "chinese_name": "北卡罗来纳大学教堂山分校",
+    "english_name": "University of North Carolina at Chapel Hill",
+    "logo_url": "https://logo.compassedu.hk/138.png"
+  },
+  {
+    "chinese_name": "北卡罗来纳大学格林波若分校",
+    "english_name": "University of North Carolina—Greensboro",
+    "logo_url": "https://logo.compassedu.hk/273.png"
+  },
+  {
+    "chinese_name": "北卡罗来纳州立大学罗利分校",
+    "english_name": "North Carolina State University—Raleigh",
+    "logo_url": "https://logo.compassedu.hk/210.png"
+  },
+  {
+    "chinese_name": "北方高等商学院",
+    "english_name": "EDHEC Business School",
+    "logo_url": "https://logo.compassedu.hk/357.png"
+  },
+  {
+    "chinese_name": "北达科他大学",
+    "english_name": "University of North Dakota",
+    "logo_url": "https://logo.compassedu.hk/249.png"
+  },
+  {
+    "chinese_name": "匹兹堡大学",
+    "english_name": "University of Pittsburgh",
+    "logo_url": "https://logo.compassedu.hk/169.png"
+  },
+  {
+    "chinese_name": "华威大学",
+    "english_name": "The University of Warwick",
+    "logo_url": "https://logo.compassedu.hk/15.png"
+  },
+  {
+    "chinese_name": "华盛顿大学",
+    "english_name": "University of Washington",
+    "logo_url": "https://logo.compassedu.hk/151.png"
+  },
+  {
+    "chinese_name": "华盛顿州立大学",
+    "english_name": "Washington State University",
+    "logo_url": "https://logo.compassedu.hk/226.png"
+  },
+  {
+    "chinese_name": "南伊利诺伊大学卡本代尔校区",
+    "english_name": "Southern Illinois University—Carbondale",
+    "logo_url": "https://logo.compassedu.hk/254.png"
+  },
+  {
+    "chinese_name": "南佛罗里达大学",
+    "english_name": "University of South Florida",
+    "logo_url": "https://logo.compassedu.hk/267.png"
+  },
+  {
+    "chinese_name": "南加州大学",
+    "english_name": "University of Southern California",
+    "logo_url": "https://logo.compassedu.hk/103.png"
+  },
+  {
+    "chinese_name": "南卡罗来纳大学",
+    "english_name": "University of South Carolina",
+    "logo_url": "https://logo.compassedu.hk/222.png"
+  },
+  {
+    "chinese_name": "南卫理公会大学",
+    "english_name": "Southern Methodist University",
+    "logo_url": "https://logo.compassedu.hk/172.png"
+  },
+  {
+    "chinese_name": "南安普顿大学",
+    "english_name": "University of Southampton",
+    "logo_url": "https://logo.compassedu.hk/28.png"
+  },
+  {
+    "chinese_name": "南安普顿大学马来西亚分校",
+    "english_name": "University of Southampton Malaysia",
+    "logo_url": "https://logo.compassedu.hk/3012.png"
+  },
+  {
+    "chinese_name": "南洋理工大学",
+    "english_name": "Nanyang Technological University",
+    "logo_url": "https://logo.compassedu.hk/39.png"
+  },
+  {
+    "chinese_name": "南达科他州立大学",
+    "english_name": "South Dakota State University",
+    "logo_url": "https://logo.compassedu.hk/279.png"
+  },
+  {
+    "chinese_name": "博林格林州立大学",
+    "english_name": "Bowling Green State University",
+    "logo_url": "https://logo.compassedu.hk/257.png"
+  },
+  {
+    "chinese_name": "卡内基梅隆大学",
+    "english_name": "Carnegie Mellon University",
+    "logo_url": "https://logo.compassedu.hk/102.png"
+  },
+  {
+    "chinese_name": "卡迪夫大学",
+    "english_name": "Cardiff University",
+    "logo_url": "https://logo.compassedu.hk/52.png"
+  },
+  {
+    "chinese_name": "印第安纳-普渡联合大学",
+    "english_name": "Indiana University-Purdue University,Indianapolis",
+    "logo_url": "https://logo.compassedu.hk/311.png"
+  },
+  {
+    "chinese_name": "印第安纳大学伯明顿分校",
+    "english_name": "Indiana University-Bloomington",
+    "logo_url": "https://logo.compassedu.hk/185.png"
+  },
+  {
+    "chinese_name": "印第安纳大学伯明顿分校",
+    "english_name": "Indiana University Bloomington",
+    "logo_url": "https://logo.compassedu.hk/3007.png"
+  },
+  {
+    "chinese_name": "叶史瓦大学",
+    "english_name": "Yeshiva University",
+    "logo_url": "https://logo.compassedu.hk/157.png"
+  },
+  {
+    "chinese_name": "哈佛大学",
+    "english_name": "Harvard University",
+    "logo_url": "https://logo.compassedu.hk/80.png"
+  },
+  {
+    "chinese_name": "哥伦比亚大学",
+    "english_name": "Columbia University",
+    "logo_url": "https://logo.compassedu.hk/83.png"
+  },
+  {
+    "chinese_name": "国立戏剧艺术学校",
+    "english_name": "National Institute of Dramatic Art (NIDA), Sydney",
+    "logo_url": "https://logo.compassedu.hk/3010.png"
+  },
+  {
+    "chinese_name": "国际医科大学",
+    "english_name": "IMU University",
+    "logo_url": "https://logo.compassedu.hk/3030.png"
+  },
+  {
+    "chinese_name": "图卢兹商学院",
+    "english_name": "Toulouse Business School",
+    "logo_url": "https://logo.compassedu.hk/362.png"
+  },
+  {
+    "chinese_name": "圣何塞州立大学",
+    "english_name": "San Jose State University",
+    "logo_url": "https://logo.compassedu.hk/320.png"
+  },
+  {
+    "chinese_name": "圣地亚哥州立大学",
+    "english_name": "San Diego State University",
+    "logo_url": "https://logo.compassedu.hk/246.png"
+  },
+  {
+    "chinese_name": "圣塔克拉拉大学",
+    "english_name": "Santa Clara University",
+    "logo_url": "https://logo.compassedu.hk/305.png"
+  },
+  {
+    "chinese_name": "圣安德鲁斯大学",
+    "english_name": "University of St Andrews",
+    "logo_url": "https://logo.compassedu.hk/2.png"
+  },
+  {
+    "chinese_name": "圣托马斯大学",
+    "english_name": "University of St. Thomas",
+    "logo_url": "https://logo.compassedu.hk/225.png"
+  },
+  {
+    "chinese_name": "圣母大学",
+    "english_name": "University of Notre Dame",
+    "logo_url": "https://logo.compassedu.hk/98.png"
+  },
+  {
+    "chinese_name": "圣路易斯华盛顿大学",
+    "english_name": "Washington University in St. Louis",
+    "logo_url": "https://logo.compassedu.hk/93.png"
+  },
+  {
+    "chinese_name": "圣路易斯大学",
+    "english_name": "Saint Louis University",
+    "logo_url": "https://logo.compassedu.hk/200.png"
+  },
+  {
+    "chinese_name": "埃克塞特大学",
+    "english_name": "University of Exeter",
+    "logo_url": "https://logo.compassedu.hk/5.png"
+  },
+  {
+    "chinese_name": "埃因霍芬理工大学",
+    "english_name": "Eindhoven University of Technology",
+    "logo_url": "https://logo.compassedu.hk/386.png"
+  },
+  {
+    "chinese_name": "埃塞克斯大学",
+    "english_name": "University of Essex",
+    "logo_url": "https://logo.compassedu.hk/397.png"
+  },
+  {
+    "chinese_name": "埃塞克高等商学院",
+    "english_name": "ESSEC Business School",
+    "logo_url": "https://logo.compassedu.hk/359.png"
+  },
+  {
+    "chinese_name": "埃默里大学",
+    "english_name": "Emory University",
+    "logo_url": "https://logo.compassedu.hk/99.png"
+  },
+  {
+    "chinese_name": "堪培拉大学",
+    "english_name": "University of Canberra",
+    "logo_url": "https://logo.compassedu.hk/1458.png"
+  },
+  {
+    "chinese_name": "堪萨斯大学",
+    "english_name": "University of Kansas",
+    "logo_url": "https://logo.compassedu.hk/212.png"
+  },
+  {
+    "chinese_name": "堪萨斯州立大学",
+    "english_name": "Kansas State University",
+    "logo_url": "https://logo.compassedu.hk/122.png"
+  },
+  {
+    "chinese_name": "塔夫茨大学",
+    "english_name": "Tufts University",
+    "logo_url": "https://logo.compassedu.hk/108.png"
+  },
+  {
+    "chinese_name": "塔尔萨大学",
+    "english_name": "University of Tulsa",
+    "logo_url": "https://logo.compassedu.hk/189.png"
+  },
+  {
+    "chinese_name": "塞吉巴黎大学",
+    "english_name": "CY Cergy Paris University",
+    "logo_url": "https://logo.compassedu.hk/2941.png"
+  },
+  {
+    "chinese_name": "墨尔本大学",
+    "english_name": "The University of Melbourne",
+    "logo_url": "https://logo.compassedu.hk/287.png"
+  },
+  {
+    "chinese_name": "夏威夷大学马诺阿分校",
+    "english_name": "University of Hawaii—Manoa",
+    "logo_url": "https://logo.compassedu.hk/247.png"
+  },
+  {
+    "chinese_name": "天普大学",
+    "english_name": "Temple University",
+    "logo_url": "https://logo.compassedu.hk/115.png"
+  },
+  {
+    "chinese_name": "奥克兰大学（美国）",
+    "english_name": "Oakland University(United States)",
+    "logo_url": "https://logo.compassedu.hk/329.png"
+  },
+  {
+    "chinese_name": "奥拓贝森管理研究院",
+    "english_name": "WHU Otto Beisheim School of Management - Koblenz",
+    "logo_url": "https://logo.compassedu.hk/3033.png"
+  },
+  {
+    "chinese_name": "奥本大学",
+    "english_name": "Auburn University",
+    "logo_url": "https://logo.compassedu.hk/191.png"
+  },
+  {
+    "chinese_name": "威廉玛丽学院",
+    "english_name": "William & Mary",
+    "logo_url": "https://logo.compassedu.hk/141.png"
+  },
+  {
+    "chinese_name": "威斯康星大学密尔沃基分校",
+    "english_name": "University of Wisconsin-Milwaukee",
+    "logo_url": "https://logo.compassedu.hk/332.png"
+  },
+  {
+    "chinese_name": "威斯康星大学麦迪逊分校",
+    "english_name": "University of Wisconsin-Madison",
+    "logo_url": "https://logo.compassedu.hk/152.png"
+  },
+  {
+    "chinese_name": "威斯敏斯特大学",
+    "english_name": "University of Westminster",
+    "logo_url": "https://logo.compassedu.hk/399.png"
+  },
+  {
+    "chinese_name": "安特卫普大学",
+    "english_name": "University of Antwerp",
+    "logo_url": "https://logo.compassedu.hk/372.png"
+  },
+  {
+    "chinese_name": "宾夕法尼亚大学",
+    "english_name": "University of Pennsylvania",
+    "logo_url": "https://logo.compassedu.hk/88.png"
+  },
+  {
+    "chinese_name": "宾夕法尼亚州立大学",
+    "english_name": "Pennsylvania State University",
+    "logo_url": "https://logo.compassedu.hk/153.png"
+  },
+  {
+    "chinese_name": "密歇根大学安娜堡分校",
+    "english_name": "University of Michigan, Ann Arbor",
+    "logo_url": "https://logo.compassedu.hk/107.png"
+  },
+  {
+    "chinese_name": "密歇根州立大学",
+    "english_name": "Michigan State University",
+    "logo_url": "https://logo.compassedu.hk/180.png"
+  },
+  {
+    "chinese_name": "密歇根理工大学",
+    "english_name": "Michigan Technological University",
+    "logo_url": "https://logo.compassedu.hk/224.png"
+  },
+  {
+    "chinese_name": "密苏里大学",
+    "english_name": "University of Missouri",
+    "logo_url": "https://logo.compassedu.hk/201.png"
+  },
+  {
+    "chinese_name": "密苏里科技大学",
+    "english_name": "Missouri University of Science and Technology",
+    "logo_url": "https://logo.compassedu.hk/308.png"
+  },
+  {
+    "chinese_name": "密西西比大学",
+    "english_name": "University of Mississippi",
+    "logo_url": "https://logo.compassedu.hk/127.png"
+  },
+  {
+    "chinese_name": "密西西比州立大学",
+    "english_name": "Mississippi State University",
+    "logo_url": "https://logo.compassedu.hk/135.png"
+  },
+  {
+    "chinese_name": "巴塞尔大学",
+    "english_name": "University of Basel",
+    "logo_url": "https://logo.compassedu.hk/367.png"
+  },
+  {
+    "chinese_name": "巴斯大学",
+    "english_name": "University of Bath",
+    "logo_url": "https://logo.compassedu.hk/20.png"
+  },
+  {
+    "chinese_name": "巴纳德学院",
+    "english_name": "Barnard College",
+    "logo_url": "https://logo.compassedu.hk/2694.png"
+  },
+  {
+    "chinese_name": "巴黎东方语言文化学院",
+    "english_name": "Institut national des langues et civilisations orientales",
+    "logo_url": "https://logo.compassedu.hk/3005.png"
+  },
+  {
+    "chinese_name": "巴黎国立高等戏剧学院",
+    "english_name": "Conservatoire national supérieur d’art dramatique de Paris (CNSAD)",
+    "logo_url": "https://logo.compassedu.hk/3009.png"
+  },
+  {
+    "chinese_name": "巴黎文理研究大学",
+    "english_name": "Paris Sciences & Lettres – PSL University",
+    "logo_url": "https://logo.compassedu.hk/1336.png"
+  },
+  {
+    "chinese_name": "巴黎高等商学院",
+    "english_name": "Hautes Etudes Commerciales Paris",
+    "logo_url": "https://logo.compassedu.hk/355.png"
+  },
+  {
+    "chinese_name": "布兰迪斯大学",
+    "english_name": "Brandeis University",
+    "logo_url": "https://logo.compassedu.hk/140.png"
+  },
+  {
+    "chinese_name": "布朗大学",
+    "english_name": "Brown University",
+    "logo_url": "https://logo.compassedu.hk/94.png"
+  },
+  {
+    "chinese_name": "布里斯托大学",
+    "english_name": "University of Bristol",
+    "logo_url": "https://logo.compassedu.hk/23.png"
+  },
+  {
+    "chinese_name": "帕德博恩大学",
+    "english_name": "Universität Paderborn",
+    "logo_url": "https://logo.compassedu.hk/2943.png"
+  },
+  {
+    "chinese_name": "帝国理工学院",
+    "english_name": "Imperial College London",
+    "logo_url": "https://logo.compassedu.hk/3.png"
+  },
+  {
+    "chinese_name": "康奈尔大学",
+    "english_name": "Cornell University",
+    "logo_url": "https://logo.compassedu.hk/95.png"
+  },
+  {
+    "chinese_name": "康德学院",
+    "english_name": "Concord College",
+    "logo_url": "https://logo.compassedu.hk/2956.png"
+  },
+  {
+    "chinese_name": "康涅狄格大学",
+    "english_name": "University of Connecticut",
+    "logo_url": "https://logo.compassedu.hk/167.png"
+  },
+  {
+    "chinese_name": "建筑联盟学院",
+    "english_name": "Architectural Association School of Architecture",
+    "logo_url": "https://logo.compassedu.hk/3003.png"
+  },
+  {
+    "chinese_name": "弗吉尼亚大学",
+    "english_name": "University of Virginia",
+    "logo_url": "https://logo.compassedu.hk/105.png"
+  },
+  {
+    "chinese_name": "弗吉尼亚州立联邦大学",
+    "english_name": "Virginia Commonwealth University",
+    "logo_url": "https://logo.compassedu.hk/256.png"
+  },
+  {
+    "chinese_name": "弗吉尼亚理工大学",
+    "english_name": "Virginia Polytechnic Institute and State University (Virginia Tech)",
+    "logo_url": "https://logo.compassedu.hk/182.png"
+  },
+  {
+    "chinese_name": "德保罗大学",
+    "english_name": "DePaul University",
+    "logo_url": "https://logo.compassedu.hk/112.png"
+  },
+  {
+    "chinese_name": "德克萨斯基督教大学",
+    "english_name": "Texas Christian University",
+    "logo_url": "https://logo.compassedu.hk/206.png"
+  },
+  {
+    "chinese_name": "德克萨斯大学奥斯汀分校",
+    "english_name": "University of Texas at Austin",
+    "logo_url": "https://logo.compassedu.hk/156.png"
+  },
+  {
+    "chinese_name": "德克萨斯理工大学",
+    "english_name": "Texas Tech University",
+    "logo_url": "https://logo.compassedu.hk/137.png"
+  },
+  {
+    "chinese_name": "德州农工大学",
+    "english_name": "Texas A&M University",
+    "logo_url": "https://logo.compassedu.hk/166.png"
+  },
+  {
+    "chinese_name": "德州大学达拉斯分校",
+    "english_name": "University of Texas-Dallas",
+    "logo_url": "https://logo.compassedu.hk/128.png"
+  },
+  {
+    "chinese_name": "德州大学阿灵顿分校",
+    "english_name": "The University of Texas at Arlington",
+    "logo_url": "https://logo.compassedu.hk/312.png"
+  },
+  {
+    "chinese_name": "德蒙福特大学",
+    "english_name": "De Montfort University",
+    "logo_url": "https://logo.compassedu.hk/421.png"
+  },
+  {
+    "chinese_name": "德雷赛尔大学",
+    "english_name": "Drexel University",
+    "logo_url": "https://logo.compassedu.hk/196.png"
+  },
+  {
+    "chinese_name": "怀俄明大学",
+    "english_name": "University of Wyoming",
+    "logo_url": "https://logo.compassedu.hk/133.png"
+  },
+  {
+    "chinese_name": "思克莱德大学",
+    "english_name": "University of Strathclyde",
+    "logo_url": "https://logo.compassedu.hk/51.png"
+  },
+  {
+    "chinese_name": "悉尼大学",
+    "english_name": "The University of Sydney",
+    "logo_url": "https://logo.compassedu.hk/288.png"
+  },
+  {
+    "chinese_name": "悉尼科技大学",
+    "english_name": "University of Technology Sydney",
+    "logo_url": "https://logo.compassedu.hk/410.png"
+  },
+  {
+    "chinese_name": "慕尼黑大学",
+    "english_name": "University of Munich",
+    "logo_url": "https://logo.compassedu.hk/388.png"
+  },
+  {
+    "chinese_name": "慕尼黑工业大学",
+    "english_name": "Technical University of Munich",
+    "logo_url": "https://logo.compassedu.hk/389.png"
+  },
+  {
+    "chinese_name": "慕尼黑工业大学亚洲分校",
+    "english_name": "Technical University of Munich Asia",
+    "logo_url": "https://logo.compassedu.hk/348.png"
+  },
+  {
+    "chinese_name": "戴顿大学",
+    "english_name": "University of Dayton",
+    "logo_url": "https://logo.compassedu.hk/211.png"
+  },
+  {
+    "chinese_name": "拉夫堡大学",
+    "english_name": "Loughborough University",
+    "logo_url": "https://logo.compassedu.hk/29.png"
+  },
+  {
+    "chinese_name": "拉罗谢尔高等商学院",
+    "english_name": "Sup De Co, La Rochelle",
+    "logo_url": "https://logo.compassedu.hk/3038.png"
+  },
+  {
+    "chinese_name": "斯坦福大学",
+    "english_name": "Stanford University",
+    "logo_url": "https://logo.compassedu.hk/86.png"
+  },
+  {
+    "chinese_name": "斯德哥尔摩大学",
+    "english_name": "Stockholm University",
+    "logo_url": "https://logo.compassedu.hk/1133.png"
+  },
+  {
+    "chinese_name": "斯蒂文斯理工学院",
+    "english_name": "Stevens Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/197.png"
+  },
+  {
+    "chinese_name": "新加坡国立大学",
+    "english_name": "National University of Singapore",
+    "logo_url": "https://logo.compassedu.hk/40.png"
+  },
+  {
+    "chinese_name": "新加坡科技设计大学",
+    "english_name": "Singapore University of Technology and Design",
+    "logo_url": "https://logo.compassedu.hk/299.png"
+  },
+  {
+    "chinese_name": "新加坡管理大学",
+    "english_name": "Singapore Management University",
+    "logo_url": "https://logo.compassedu.hk/285.png"
+  },
+  {
+    "chinese_name": "新南威尔士大学",
+    "english_name": "The University of New South Wales",
+    "logo_url": "https://logo.compassedu.hk/289.png"
+  },
+  {
+    "chinese_name": "新墨西哥大学",
+    "english_name": "University of New Mexico",
+    "logo_url": "https://logo.compassedu.hk/266.png"
+  },
+  {
+    "chinese_name": "新学院",
+    "english_name": "The New School",
+    "logo_url": "https://logo.compassedu.hk/110.png"
+  },
+  {
+    "chinese_name": "新泽西理工学院",
+    "english_name": "New Jersey Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/118.png"
+  },
+  {
+    "chinese_name": "新罕布什尔大学",
+    "english_name": "University of New Hampshire",
+    "logo_url": "https://logo.compassedu.hk/214.png"
+  },
+  {
+    "chinese_name": "日内瓦大学",
+    "english_name": "Université de Genève",
+    "logo_url": "https://logo.compassedu.hk/374.png"
+  },
+  {
+    "chinese_name": "日内瓦酒店管理学校",
+    "english_name": "Ecole Hoteliere de Geneve",
+    "logo_url": "https://logo.compassedu.hk/3037.png"
+  },
+  {
+    "chinese_name": "旧金山大学",
+    "english_name": "University of San Francisco",
+    "logo_url": "https://logo.compassedu.hk/231.png"
+  },
+  {
+    "chinese_name": "昆士兰大学",
+    "english_name": "The University of Queensland",
+    "logo_url": "https://logo.compassedu.hk/290.png"
+  },
+  {
+    "chinese_name": "明尼苏达大学双城分校",
+    "english_name": "University of Minnesota-Twin Cities",
+    "logo_url": "https://logo.compassedu.hk/178.png"
+  },
+  {
+    "chinese_name": "普林斯顿大学",
+    "english_name": "Princeton University",
+    "logo_url": "https://logo.compassedu.hk/81.png"
+  },
+  {
+    "chinese_name": "普渡大学西拉法叶分校",
+    "english_name": "Purdue University",
+    "logo_url": "https://logo.compassedu.hk/171.png"
+  },
+  {
+    "chinese_name": "曼彻斯特城市大学",
+    "english_name": "Manchester Metropolitan University",
+    "logo_url": "https://logo.compassedu.hk/428.png"
+  },
+  {
+    "chinese_name": "曼彻斯特大学",
+    "english_name": "The University of Manchester",
+    "logo_url": "https://logo.compassedu.hk/49.png"
+  },
+  {
+    "chinese_name": "本特利大学",
+    "english_name": "Bentley University",
+    "logo_url": "https://logo.compassedu.hk/302.png"
+  },
+  {
+    "chinese_name": "杜伦大学",
+    "english_name": "Durham University",
+    "logo_url": "https://logo.compassedu.hk/12.png"
+  },
+  {
+    "chinese_name": "杜克大学",
+    "english_name": "Duke University",
+    "logo_url": "https://logo.compassedu.hk/89.png"
+  },
+  {
+    "chinese_name": "杜兰大学",
+    "english_name": "Tulane University",
+    "logo_url": "https://logo.compassedu.hk/160.png"
+  },
+  {
+    "chinese_name": "杨百翰大学",
+    "english_name": "Brigham Young University-Provo",
+    "logo_url": "https://logo.compassedu.hk/179.png"
+  },
+  {
+    "chinese_name": "柏林洪堡大学",
+    "english_name": "Humboldt University of Berlin",
+    "logo_url": "https://logo.compassedu.hk/392.png"
+  },
+  {
+    "chinese_name": "柏林赫尔梯行政学院",
+    "english_name": "Hertie School of Governance",
+    "logo_url": "https://logo.compassedu.hk/3041.png"
+  },
+  {
+    "chinese_name": "查尔斯·达尔文大学",
+    "english_name": "Charles Darwin University",
+    "logo_url": "https://logo.compassedu.hk/1551.png"
+  },
+  {
+    "chinese_name": "根特大学",
+    "english_name": "Ghent University",
+    "logo_url": "https://logo.compassedu.hk/379.png"
+  },
+  {
+    "chinese_name": "格勒诺布尔高等商学院",
+    "english_name": "Grenoble Graduate School Of Business",
+    "logo_url": "https://logo.compassedu.hk/364.png"
+  },
+  {
+    "chinese_name": "格拉斯哥大学",
+    "english_name": "University of Glasgow",
+    "logo_url": "https://logo.compassedu.hk/31.png"
+  },
+  {
+    "chinese_name": "格林威治大学",
+    "english_name": "University of Greenwich",
+    "logo_url": "https://logo.compassedu.hk/442.png"
+  },
+  {
+    "chinese_name": "格罗宁根大学",
+    "english_name": "University of Groningen",
+    "logo_url": "https://logo.compassedu.hk/384.png"
+  },
+  {
+    "chinese_name": "桑德兰大学",
+    "english_name": "University of Sunderland",
+    "logo_url": "https://logo.compassedu.hk/452.png"
+  },
+  {
+    "chinese_name": "欧洲高等商学院",
+    "english_name": "ESCP Business School",
+    "logo_url": "https://logo.compassedu.hk/363.png"
+  },
+  {
+    "chinese_name": "法国IPAG高等商学院",
+    "english_name": "IPAG Business School",
+    "logo_url": "https://logo.compassedu.hk/2613.png"
+  },
+  {
+    "chinese_name": "法国农业科学院",
+    "english_name": "L'Institut Agro (L'Institut Agro Dijon, L'Institut Agro Montpellier, L'Institut Agro Rennes Angers)",
+    "logo_url": "https://logo.compassedu.hk/3045.png"
+  },
+  {
+    "chinese_name": "法国南特高等商业学院",
+    "english_name": "Audencia Business School",
+    "logo_url": "https://logo.compassedu.hk/361.png"
+  },
+  {
+    "chinese_name": "法国雷恩高等商学院",
+    "english_name": "Rennes School of Business",
+    "logo_url": "https://logo.compassedu.hk/354.png"
+  },
+  {
+    "chinese_name": "法语布鲁塞尔自由大学",
+    "english_name": "Université Libre de Bruxelles",
+    "logo_url": "https://logo.compassedu.hk/371.png"
+  },
+  {
+    "chinese_name": "法语鲁汶大学",
+    "english_name": "Université Catholique de Louvain",
+    "logo_url": "https://logo.compassedu.hk/378.png"
+  },
+  {
+    "chinese_name": "波士顿大学",
+    "english_name": "Boston University",
+    "logo_url": "https://logo.compassedu.hk/139.png"
+  },
+  {
+    "chinese_name": "波士顿学院",
+    "english_name": "Boston College",
+    "logo_url": "https://logo.compassedu.hk/238.png"
+  },
+  {
+    "chinese_name": "波特兰州立大学",
+    "english_name": "Portland State University",
+    "logo_url": "https://logo.compassedu.hk/337.png"
+  },
+  {
+    "chinese_name": "泰莱大学",
+    "english_name": "Taylor's University",
+    "logo_url": "https://logo.compassedu.hk/1379.png"
+  },
+  {
+    "chinese_name": "泽维尔大学",
+    "english_name": "Xavier University",
+    "logo_url": "https://logo.compassedu.hk/345.png"
+  },
+  {
+    "chinese_name": "洛桑联邦理工学院",
+    "english_name": "Swiss federal Institute of Technology in Lausa",
+    "logo_url": "https://logo.compassedu.hk/375.png"
+  },
+  {
+    "chinese_name": "洛约拉玛丽蒙特大学",
+    "english_name": "Loyola Marymount University",
+    "logo_url": "https://logo.compassedu.hk/405.png"
+  },
+  {
+    "chinese_name": "海德堡大学",
+    "english_name": "Heidelberg University",
+    "logo_url": "https://logo.compassedu.hk/390.png"
+  },
+  {
+    "chinese_name": "澳大利亚国立大学",
+    "english_name": "Australian National University",
+    "logo_url": "https://logo.compassedu.hk/286.png"
+  },
+  {
+    "chinese_name": "澳门城市大学",
+    "english_name": "City University of Macau",
+    "logo_url": "https://logo.compassedu.hk/352.png"
+  },
+  {
+    "chinese_name": "澳门大学",
+    "english_name": "University of Macau",
+    "logo_url": "https://logo.compassedu.hk/351.png"
+  },
+  {
+    "chinese_name": "澳门旅游学院",
+    "english_name": "Macao Institute for Tourism Studies",
+    "logo_url": "https://logo.compassedu.hk/1315.png"
+  },
+  {
+    "chinese_name": "澳门理工大学",
+    "english_name": "Macao Polytechnic University",
+    "logo_url": "https://logo.compassedu.hk/353.png"
+  },
+  {
+    "chinese_name": "澳门科技大学",
+    "english_name": "Macau University of Science and Technology",
+    "logo_url": "https://logo.compassedu.hk/350.png"
+  },
+  {
+    "chinese_name": "爱丁堡大学",
+    "english_name": "The University of Edinburgh",
+    "logo_url": "https://logo.compassedu.hk/24.png"
+  },
+  {
+    "chinese_name": "爱荷华大学",
+    "english_name": "University of Iowa",
+    "logo_url": "https://logo.compassedu.hk/181.png"
+  },
+  {
+    "chinese_name": "爱荷华州立大学",
+    "english_name": "Iowa State University",
+    "logo_url": "https://logo.compassedu.hk/205.png"
+  },
+  {
+    "chinese_name": "牛津大学",
+    "english_name": "University of Oxford",
+    "logo_url": "https://logo.compassedu.hk/8.png"
+  },
+  {
+    "chinese_name": "特拉华大学",
+    "english_name": "University of Delaware",
+    "logo_url": "https://logo.compassedu.hk/188.png"
+  },
+  {
+    "chinese_name": "犹他大学",
+    "english_name": "University of Utah",
+    "logo_url": "https://logo.compassedu.hk/235.png"
+  },
+  {
+    "chinese_name": "瓦格宁根大学",
+    "english_name": "Wageningen University & Research",
+    "logo_url": "https://logo.compassedu.hk/385.png"
+  },
+  {
+    "chinese_name": "田纳西大学",
+    "english_name": "University of Tennessee",
+    "logo_url": "https://logo.compassedu.hk/217.png"
+  },
+  {
+    "chinese_name": "白金汉大学",
+    "english_name": "University of Buckingham",
+    "logo_url": "https://logo.compassedu.hk/30.png"
+  },
+  {
+    "chinese_name": "皇家墨尔本理工大学",
+    "english_name": "Royal Melbourne Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/413.png"
+  },
+  {
+    "chinese_name": "皇家理工学院",
+    "english_name": "KTH Royal Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/1084.png"
+  },
+  {
+    "chinese_name": "皇家艺术学院",
+    "english_name": "Royal College of Art",
+    "logo_url": "https://logo.compassedu.hk/2176.png"
+  },
+  {
+    "chinese_name": "福特汉姆大学",
+    "english_name": "Fordham University",
+    "logo_url": "https://logo.compassedu.hk/162.png"
+  },
+  {
+    "chinese_name": "科廷大学",
+    "english_name": "Curtin University",
+    "logo_url": "https://logo.compassedu.hk/415.png"
+  },
+  {
+    "chinese_name": "科罗拉多大学丹佛分校",
+    "english_name": "University of Colorado—Denver",
+    "logo_url": "https://logo.compassedu.hk/263.png"
+  },
+  {
+    "chinese_name": "科罗拉多大学波德分校",
+    "english_name": "University of Colorado—Boulder",
+    "logo_url": "https://logo.compassedu.hk/203.png"
+  },
+  {
+    "chinese_name": "科罗拉多州立大学",
+    "english_name": "Colorado State University",
+    "logo_url": "https://logo.compassedu.hk/236.png"
+  },
+  {
+    "chinese_name": "科罗拉多矿业大学",
+    "english_name": "Colorado School of Mines",
+    "logo_url": "https://logo.compassedu.hk/184.png"
+  },
+  {
+    "chinese_name": "约克大学（英国）",
+    "english_name": "University of York(United Kingdom)",
+    "logo_url": "https://logo.compassedu.hk/19.png"
+  },
+  {
+    "chinese_name": "约翰霍普金斯大学",
+    "english_name": "Johns Hopkins University",
+    "logo_url": "https://logo.compassedu.hk/92.png"
+  },
+  {
+    "chinese_name": "纽卡斯尔大学（澳大利亚）",
+    "english_name": "The University of Newcastle, Australia",
+    "logo_url": "https://logo.compassedu.hk/414.png"
+  },
+  {
+    "chinese_name": "纽卡斯尔大学（英国）",
+    "english_name": "Newcastle University(United Kingdom)",
+    "logo_url": "https://logo.compassedu.hk/33.png"
+  },
+  {
+    "chinese_name": "纽约大学",
+    "english_name": "New York University",
+    "logo_url": "https://logo.compassedu.hk/142.png"
+  },
+  {
+    "chinese_name": "纽约州立大学宾汉姆顿分校",
+    "english_name": "Binghamton University-SUNY",
+    "logo_url": "https://logo.compassedu.hk/198.png"
+  },
+  {
+    "chinese_name": "纽约州立大学布法罗分校",
+    "english_name": "University at Buffalo—SUNY",
+    "logo_url": "https://logo.compassedu.hk/221.png"
+  },
+  {
+    "chinese_name": "纽约州立大学石溪分校",
+    "english_name": "Stony Brook University—SUNY",
+    "logo_url": "https://logo.compassedu.hk/220.png"
+  },
+  {
+    "chinese_name": "纽约州立大学阿尔巴尼分校",
+    "english_name": "University at Albany-SUNY",
+    "logo_url": "https://logo.compassedu.hk/121.png"
+  },
+  {
+    "chinese_name": "纽约市立大学亨特学院",
+    "english_name": "Hunter College-CUNY",
+    "logo_url": "https://logo.compassedu.hk/310.png"
+  },
+  {
+    "chinese_name": "纽约市立大学刑事学院",
+    "english_name": "City University of New York, John Jay College of Criminal Justice",
+    "logo_url": "https://logo.compassedu.hk/339.png"
+  },
+  {
+    "chinese_name": "纽约市立大学巴鲁克学院",
+    "english_name": "Bernard M.Baruch College，CUNY",
+    "logo_url": "https://logo.compassedu.hk/294.png"
+  },
+  {
+    "chinese_name": "纽约市立学院",
+    "english_name": "The City College of New York",
+    "logo_url": "https://logo.compassedu.hk/303.png"
+  },
+  {
+    "chinese_name": "维克森林大学",
+    "english_name": "Wake Forest University",
+    "logo_url": "https://logo.compassedu.hk/106.png"
+  },
+  {
+    "chinese_name": "维拉诺瓦大学",
+    "english_name": "Villanova University",
+    "logo_url": "https://logo.compassedu.hk/295.png"
+  },
+  {
+    "chinese_name": "罗切斯特大学",
+    "english_name": "University of Rochester",
+    "logo_url": "https://logo.compassedu.hk/143.png"
+  },
+  {
+    "chinese_name": "罗切斯特理工学院",
+    "english_name": "Rochester Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/296.png"
+  },
+  {
+    "chinese_name": "罗格斯大学",
+    "english_name": "Rutgers University-New Brunswick",
+    "logo_url": "https://logo.compassedu.hk/177.png"
+  },
+  {
+    "chinese_name": "罗格斯大学纽瓦克分校",
+    "english_name": "Rutgers University-Newark",
+    "logo_url": "https://logo.compassedu.hk/123.png"
+  },
+  {
+    "chinese_name": "美利坚大学",
+    "english_name": "American University",
+    "logo_url": "https://logo.compassedu.hk/190.png"
+  },
+  {
+    "chinese_name": "美国天主教大学",
+    "english_name": "The Catholic University of America",
+    "logo_url": "https://logo.compassedu.hk/227.png"
+  },
+  {
+    "chinese_name": "考文垂大学",
+    "english_name": "Coventry University",
+    "logo_url": "https://logo.compassedu.hk/400.png"
+  },
+  {
+    "chinese_name": "耶鲁大学",
+    "english_name": "Yale University",
+    "logo_url": "https://logo.compassedu.hk/82.png"
+  },
+  {
+    "chinese_name": "肯塔基大学",
+    "english_name": "University of Kentucky",
+    "logo_url": "https://logo.compassedu.hk/234.png"
+  },
+  {
+    "chinese_name": "肯恩大学",
+    "english_name": "Kean University",
+    "logo_url": "https://logo.compassedu.hk/848.png"
+  },
+  {
+    "chinese_name": "肯特大学",
+    "english_name": "University of Kent",
+    "logo_url": "https://logo.compassedu.hk/56.png"
+  },
+  {
+    "chinese_name": "芝加哥大学",
+    "english_name": "University of Chicago",
+    "logo_url": "https://logo.compassedu.hk/87.png"
+  },
+  {
+    "chinese_name": "芝加哥洛约拉大学",
+    "english_name": "Loyola University Chicago",
+    "logo_url": "https://logo.compassedu.hk/230.png"
+  },
+  {
+    "chinese_name": "苏黎世大学",
+    "english_name": "University of Zurich",
+    "logo_url": "https://logo.compassedu.hk/369.png"
+  },
+  {
+    "chinese_name": "苏黎世联邦理工大学",
+    "english_name": "Swiss Federal Institute of Technology Zurich",
+    "logo_url": "https://logo.compassedu.hk/366.png"
+  },
+  {
+    "chinese_name": "范德堡大学",
+    "english_name": "Vanderbilt University",
+    "logo_url": "https://logo.compassedu.hk/97.png"
+  },
+  {
+    "chinese_name": "荷语布鲁塞尔自由大学",
+    "english_name": "Vrije Universiteit Brussel",
+    "logo_url": "https://logo.compassedu.hk/376.png"
+  },
+  {
+    "chinese_name": "荷语布鲁塞尔自由大学",
+    "english_name": "Vrije Universiteit Brussel",
+    "logo_url": "https://logo.compassedu.hk/3042.png"
+  },
+  {
+    "chinese_name": "荷语鲁汶大学",
+    "english_name": "Katholieke Universiteit Leuven",
+    "logo_url": "https://logo.compassedu.hk/365.png"
+  },
+  {
+    "chinese_name": "莫纳什大学",
+    "english_name": "Monash University",
+    "logo_url": "https://logo.compassedu.hk/291.png"
+  },
+  {
+    "chinese_name": "莱斯大学",
+    "english_name": "Rice University",
+    "logo_url": "https://logo.compassedu.hk/96.png"
+  },
+  {
+    "chinese_name": "莱斯特大学",
+    "english_name": "University of Leicester",
+    "logo_url": "https://logo.compassedu.hk/27.png"
+  },
+  {
+    "chinese_name": "莱顿大学",
+    "english_name": "Leiden University",
+    "logo_url": "https://logo.compassedu.hk/380.png"
+  },
+  {
+    "chinese_name": "萨塞克斯大学",
+    "english_name": "University of Sussex",
+    "logo_url": "https://logo.compassedu.hk/6.png"
+  },
+  {
+    "chinese_name": "萨里大学",
+    "english_name": "University of Surrey",
+    "logo_url": "https://logo.compassedu.hk/37.png"
+  },
+  {
+    "chinese_name": "蒙大拿大学",
+    "english_name": "University of Montana",
+    "logo_url": "https://logo.compassedu.hk/280.png"
+  },
+  {
+    "chinese_name": "蒙彼利埃高等商学院",
+    "english_name": "Montpellier Business School",
+    "logo_url": "https://logo.compassedu.hk/360.png"
+  },
+  {
+    "chinese_name": "薛顿贺尔大学",
+    "english_name": "Seton Hall University",
+    "logo_url": "https://logo.compassedu.hk/114.png"
+  },
+  {
+    "chinese_name": "西北大学（美国）",
+    "english_name": "Northwestern University(United States)",
+    "logo_url": "https://logo.compassedu.hk/91.png"
+  },
+  {
+    "chinese_name": "西弗吉尼亚大学",
+    "english_name": "West Virginia University",
+    "logo_url": "https://logo.compassedu.hk/250.png"
+  },
+  {
+    "chinese_name": "西澳大学",
+    "english_name": "The University of Western Australia",
+    "logo_url": "https://logo.compassedu.hk/292.png"
+  },
+  {
+    "chinese_name": "西蒙斯大学",
+    "english_name": "Simmons University",
+    "logo_url": "https://logo.compassedu.hk/344.png"
+  },
+  {
+    "chinese_name": "詹姆斯麦迪逊大学",
+    "english_name": "James Madison University",
+    "logo_url": "https://logo.compassedu.hk/321.png"
+  },
+  {
+    "chinese_name": "诺丁汉大学",
+    "english_name": "University of Nottingham",
+    "logo_url": "https://logo.compassedu.hk/25.png"
+  },
+  {
+    "chinese_name": "谢菲尔德大学",
+    "english_name": "The University of Sheffield",
+    "logo_url": "https://logo.compassedu.hk/26.png"
+  },
+  {
+    "chinese_name": "贝勒大学",
+    "english_name": "Baylor University",
+    "logo_url": "https://logo.compassedu.hk/183.png"
+  },
+  {
+    "chinese_name": "贝尔法斯特女王大学",
+    "english_name": "Queen's University Belfast",
+    "logo_url": "https://logo.compassedu.hk/55.png"
+  },
+  {
+    "chinese_name": "贡萨加大学",
+    "english_name": "Gonzaga University",
+    "logo_url": "https://logo.compassedu.hk/406.png"
+  },
+  {
+    "chinese_name": "赫瑞瓦特大学",
+    "english_name": "Heriot-Watt University",
+    "logo_url": "https://logo.compassedu.hk/395.png"
+  },
+  {
+    "chinese_name": "路易斯安那大学拉法叶分校",
+    "english_name": "University of Louisiana at Lafayette",
+    "logo_url": "https://logo.compassedu.hk/314.png"
+  },
+  {
+    "chinese_name": "路易斯安那州立大学",
+    "english_name": "Louisiana State University-Baton Rouge",
+    "logo_url": "https://logo.compassedu.hk/109.png"
+  },
+  {
+    "chinese_name": "路易斯维尔大学",
+    "english_name": "University of Louisville",
+    "logo_url": "https://logo.compassedu.hk/248.png"
+  },
+  {
+    "chinese_name": "辛辛那提大学",
+    "english_name": "University of Cincinnati",
+    "logo_url": "https://logo.compassedu.hk/126.png"
+  },
+  {
+    "chinese_name": "达特茅斯学院",
+    "english_name": "Dartmouth College",
+    "logo_url": "https://logo.compassedu.hk/90.png"
+  },
+  {
+    "chinese_name": "迈阿密大学",
+    "english_name": "University of Miami",
+    "logo_url": "https://logo.compassedu.hk/149.png"
+  },
+  {
+    "chinese_name": "迪尤肯大学",
+    "english_name": "Duquesne University",
+    "logo_url": "https://logo.compassedu.hk/229.png"
+  },
+  {
+    "chinese_name": "邓迪大学",
+    "english_name": "University of Dundee",
+    "logo_url": "https://logo.compassedu.hk/57.png"
+  },
+  {
+    "chinese_name": "都柏林圣三一大学",
+    "english_name": "Trinity College Dublin, The University of Dublin",
+    "logo_url": "https://logo.compassedu.hk/1294.png"
+  },
+  {
+    "chinese_name": "里昂商学院",
+    "english_name": "EMLYON Business School",
+    "logo_url": "https://logo.compassedu.hk/358.png"
+  },
+  {
+    "chinese_name": "里海大学",
+    "english_name": "Lehigh University",
+    "logo_url": "https://logo.compassedu.hk/147.png"
+  },
+  {
+    "chinese_name": "锡根大学",
+    "english_name": "Universität Siegen",
+    "logo_url": "https://logo.compassedu.hk/2986.png"
+  },
+  {
+    "chinese_name": "阿伯丁大学",
+    "english_name": "University of Aberdeen",
+    "logo_url": "https://logo.compassedu.hk/394.png"
+  },
+  {
+    "chinese_name": "阿姆斯特丹大学",
+    "english_name": "University of Amsterdam",
+    "logo_url": "https://logo.compassedu.hk/383.png"
+  },
+  {
+    "chinese_name": "阿德莱德大学",
+    "english_name": "The University of Adelaide",
+    "logo_url": "https://logo.compassedu.hk/293.png"
+  },
+  {
+    "chinese_name": "阿德菲大学",
+    "english_name": "Adelphi University",
+    "logo_url": "https://logo.compassedu.hk/130.png"
+  },
+  {
+    "chinese_name": "阿拉巴马大学",
+    "english_name": "University of Alabama",
+    "logo_url": "https://logo.compassedu.hk/186.png"
+  },
+  {
+    "chinese_name": "阿拉巴马大学伯明翰分校",
+    "english_name": "University of Alabama-Birmingham",
+    "logo_url": "https://logo.compassedu.hk/125.png"
+  },
+  {
+    "chinese_name": "阿拉斯加大学费尔班克斯分校",
+    "english_name": "University of Alaska,Fairbanks",
+    "logo_url": "https://logo.compassedu.hk/309.png"
+  },
+  {
+    "chinese_name": "阿斯顿大学",
+    "english_name": "Aston University",
+    "logo_url": "https://logo.compassedu.hk/53.png"
+  },
+  {
+    "chinese_name": "阿肯色大学",
+    "english_name": "University of Arkansas",
+    "logo_url": "https://logo.compassedu.hk/116.png"
+  },
+  {
+    "chinese_name": "隆德大学",
+    "english_name": "Lund University",
+    "logo_url": "https://logo.compassedu.hk/1091.png"
+  },
+  {
+    "chinese_name": "雪城大学",
+    "english_name": "Syracuse University",
+    "logo_url": "https://logo.compassedu.hk/173.png"
+  },
+  {
+    "chinese_name": "雷丁大学",
+    "english_name": "University of Reading",
+    "logo_url": "https://logo.compassedu.hk/50.png"
+  },
+  {
+    "chinese_name": "雷恩大学",
+    "english_name": "UNIVERSITE RENNES",
+    "logo_url": "https://logo.compassedu.hk/2995.png"
+  },
+  {
+    "chinese_name": "霍华德大学",
+    "english_name": "Howard University",
+    "logo_url": "https://logo.compassedu.hk/223.png"
+  },
+  {
+    "chinese_name": "霍夫斯特拉大学",
+    "english_name": "Hofstra University",
+    "logo_url": "https://logo.compassedu.hk/237.png"
+  },
+  {
+    "chinese_name": "韦恩州立大学",
+    "english_name": "Wayne State University",
+    "logo_url": "https://logo.compassedu.hk/315.png"
+  },
+  {
+    "chinese_name": "香港中文大学",
+    "english_name": "The Chinese University of Hong Kong",
+    "logo_url": "https://logo.compassedu.hk/41.png"
+  },
+  {
+    "chinese_name": "香港城市大学",
+    "english_name": "City University of Hong Kong",
+    "logo_url": "https://logo.compassedu.hk/43.png"
+  },
+  {
+    "chinese_name": "香港大学",
+    "english_name": "The University of Hong Kong",
+    "logo_url": "https://logo.compassedu.hk/47.png"
+  },
+  {
+    "chinese_name": "香港岭南大学",
+    "english_name": "Lingnan University",
+    "logo_url": "https://logo.compassedu.hk/46.png"
+  },
+  {
+    "chinese_name": "香港恒生大学",
+    "english_name": "The Hang Seng University of Hong Kong",
+    "logo_url": "https://logo.compassedu.hk/404.png"
+  },
+  {
+    "chinese_name": "香港教育大学",
+    "english_name": "The Education University of Hong Kong",
+    "logo_url": "https://logo.compassedu.hk/60.png"
+  },
+  {
+    "chinese_name": "香港树仁大学",
+    "english_name": "Hong Kong Shue Yan University",
+    "logo_url": "https://logo.compassedu.hk/403.png"
+  },
+  {
+    "chinese_name": "香港浸会大学",
+    "english_name": "Hong Kong Baptist University",
+    "logo_url": "https://logo.compassedu.hk/45.png"
+  },
+  {
+    "chinese_name": "香港演艺学院",
+    "english_name": "The Hong Kong Academy for Performing Arts",
+    "logo_url": "https://logo.compassedu.hk/2397.png"
+  },
+  {
+    "chinese_name": "香港理工大学",
+    "english_name": "The Hong Kong Polytechnic University",
+    "logo_url": "https://logo.compassedu.hk/44.png"
+  },
+  {
+    "chinese_name": "香港科技大学",
+    "english_name": "The Hong Kong University of Science and Technology",
+    "logo_url": "https://logo.compassedu.hk/42.png"
+  },
+  {
+    "chinese_name": "香港都会大学",
+    "english_name": "Hong Kong Metropolitan University",
+    "logo_url": "https://logo.compassedu.hk/402.png"
+  },
+  {
+    "chinese_name": "马凯特大学",
+    "english_name": "Marquette University",
+    "logo_url": "https://logo.compassedu.hk/192.png"
+  },
+  {
+    "chinese_name": "马来亚大学",
+    "english_name": "University of Malaya",
+    "logo_url": "https://logo.compassedu.hk/1114.png"
+  },
+  {
+    "chinese_name": "马来西亚博特拉大学",
+    "english_name": "Universiti Putra Malaysia",
+    "logo_url": "https://logo.compassedu.hk/1193.png"
+  },
+  {
+    "chinese_name": "马来西亚国立大学",
+    "english_name": "The National University of Malaysia",
+    "logo_url": "https://logo.compassedu.hk/2412.png"
+  },
+  {
+    "chinese_name": "马来西亚理工大学",
+    "english_name": "Universiti Teknologi Malaysia",
+    "logo_url": "https://logo.compassedu.hk/1403.png"
+  },
+  {
+    "chinese_name": "马来西亚理科大学",
+    "english_name": "University of Science Malaysia",
+    "logo_url": "https://logo.compassedu.hk/1386.png"
+  },
+  {
+    "chinese_name": "马来西亚莫纳什大学",
+    "english_name": "Monash University Malaysia",
+    "logo_url": "https://logo.compassedu.hk/2940.png"
+  },
+  {
+    "chinese_name": "马萨诸塞大学阿默斯特分校",
+    "english_name": "University of Massachusetts Amherst",
+    "logo_url": "https://logo.compassedu.hk/204.png"
+  },
+  {
+    "chinese_name": "马里兰大学帕克分校",
+    "english_name": "University of Maryland, College Park",
+    "logo_url": "https://logo.compassedu.hk/165.png"
+  },
+  {
+    "chinese_name": "马里兰巴尔的摩大学",
+    "english_name": "University of Maryland-Baltimore County",
+    "logo_url": "https://logo.compassedu.hk/136.png"
+  },
+  {
+    "chinese_name": "高威大学",
+    "english_name": "University of Galway",
+    "logo_url": "https://logo.compassedu.hk/2148.png"
+  },
+  {
+    "chinese_name": "麦考瑞大学",
+    "english_name": "Macquarie University",
+    "logo_url": "https://logo.compassedu.hk/416.png"
+  },
+  {
+    "chinese_name": "麻省理工学院",
+    "english_name": "Massachusetts Institute of Technology",
+    "logo_url": "https://logo.compassedu.hk/85.png"
+  }
+]
